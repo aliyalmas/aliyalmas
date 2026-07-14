@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aliya Almas</h1>
-<h3 align="center">Computer Science Engineer | Frontend Developer | Aspiring Cloud & Cybersecurity Enthusiast</h3>
+<h3 align="center">Computer Science Engineer | Frontend Developer | Exploring Data Analytics, Cloud & Cybersecurity</h3>
 
 # 💫 About Me:
 🌱 I’m currently exploring Cloud Computing, Cybersecurity, and Data Analytics  <br>💻 Passionate about building responsive and user-friendly web applications  <br>🚀 Worked on real-world projects using React, Node.js, and MongoDB  <br>🎯 Goal: To become a skilled Software Engineer with strong problem-solving abilities  <br>📍 Based in Dubai, UAE  
